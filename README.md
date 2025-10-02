@@ -14,4 +14,9 @@ STACK
 
 <img width="1584" height="732" alt="image" src="https://github.com/user-attachments/assets/8b6996e7-2c5c-4061-aa15-bcb3332169e5" />
 
-유스케이스 다이어그램
+
+<img width="1704" height="763" alt="image" src="https://github.com/user-attachments/assets/77e3f3ae-0125-4be3-8533-a93ab27ad19e" />
+
+ERD 설계서
+
+![Uploading image.png…]()
