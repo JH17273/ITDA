@@ -2,8 +2,13 @@
 
 STACK
 
-<img width="57" height="28" alt="image" src="https://github.com/user-attachments/assets/dee3d331-1409-4e4b-a9df-ce6448d29d03" />
-<img width="76" height="28" alt="image" src="https://github.com/user-attachments/assets/4d2e837b-affc-4921-b445-b2e20b8a3529" />
+<img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
+<img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
+<img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
+<img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
+<img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+<img src="https://img.shields.io/badge/jsp-F7DF1E?style=for-the-badge&logo=jsp&logoColor=black">
+
 
 
 <img width="1584" height="732" alt="image" src="https://github.com/user-attachments/assets/8b6996e7-2c5c-4061-aa15-bcb3332169e5" />
