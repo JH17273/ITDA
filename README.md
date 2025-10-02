@@ -8,7 +8,7 @@ STACK
 <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 <img src="https://img.shields.io/badge/jsp-F7DF1E?style=for-the-badge&logo=jsp&logoColor=black">
-<img width="200" height="50" alt="image" src="https://github.com/user-attachments/assets/7b358ec1-0af9-4b61-9cf8-e7ab6ad508fc" />
+<img width="80" height="30" alt="image" src="https://github.com/user-attachments/assets/7b358ec1-0af9-4b61-9cf8-e7ab6ad508fc" />
 
 
 
