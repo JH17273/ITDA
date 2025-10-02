@@ -1,5 +1,7 @@
 중고 물품 거래사이트 잇다입니다.
 
+<img width="562" height="565" alt="image" src="https://github.com/user-attachments/assets/78d08e32-b986-4e1b-b9f7-d51311e3a7be" />
+
 STACK
 
 <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
@@ -18,5 +20,3 @@ STACK
 <img width="1704" height="763" alt="image" src="https://github.com/user-attachments/assets/77e3f3ae-0125-4be3-8533-a93ab27ad19e" />
 
 ERD 설계서
-
-<img width="562" height="565" alt="image" src="https://github.com/user-attachments/assets/78d08e32-b986-4e1b-b9f7-d51311e3a7be" />
