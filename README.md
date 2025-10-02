@@ -19,4 +19,4 @@ STACK
 
 ERD 설계서
 
-![Uploading image.png…]()
+<img width="562" height="565" alt="image" src="https://github.com/user-attachments/assets/78d08e32-b986-4e1b-b9f7-d51311e3a7be" />
